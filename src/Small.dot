@@ -1,0 +1,5 @@
+digraph G {
+ANC -> SEA [weight = "1448"];
+LAX -> PBI [weight = "2330"];
+SFO -> CLT [weight = "2296"];
+}
